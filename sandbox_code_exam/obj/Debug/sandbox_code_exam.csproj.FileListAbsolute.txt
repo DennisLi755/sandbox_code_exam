@@ -1,0 +1,7 @@
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\bin\Debug\sandbox_code_exam.exe.config
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\bin\Debug\sandbox_code_exam.exe
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\bin\Debug\sandbox_code_exam.pdb
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\obj\Debug\sandbox_code_exam.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\obj\Debug\sandbox_code_exam.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\obj\Debug\sandbox_code_exam.exe
+C:\Users\denni\source\repos\sandbox_code_exam\sandbox_code_exam\obj\Debug\sandbox_code_exam.pdb
